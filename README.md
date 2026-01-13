@@ -48,7 +48,7 @@ Can cause file not found errors
 
 ## 3. How would you add a third page (e.g., a menu page) to this server? What steps would you take?
 
-# Step 1: Create foldr public/
+# Step 1: Create folder public/
 
 Create a new file:
 public/menu.html
